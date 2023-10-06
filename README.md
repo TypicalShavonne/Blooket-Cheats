@@ -1,69 +1,83 @@
+# Blooket Cheats
+
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
+<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h3>
+<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h3>
+
+[Support Server](https://discord.gg/jHjGrrdXP6)
+[Import tutorial](https://github.com/TypicalShavonne/Blooket-Cheats/blob/main/tutorial/readme.md)
+
+
+## Table of Contents
+
+- [Information](#information)
+- [How to Use](#how-to-use)
+- [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
+- [List of Cheats](#list-of-cheats)
 
 ## Information
 
-<details><summary><h3>How to use</h3></summary>
+This repository contains a collection of cheats for the popular online game Blooket. These cheats can give you an advantage in various game modes. Please note that using cheats in online games may violate the game's terms of service and can result in penalties or bans. Use these cheats responsibly.
 
-There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
-2. Going to the [GitHub pages site](https://05konz.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
-3. Copying a script and running it in the inspect element console
-</details>
+### How to Use
 
-<details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
+There are three recommended methods for using these scripts:
 
-We don't actually know what to do about this or how to fix it, sorry.
-</details>
+1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/TypicalShavonne/Blooket-Cheats/blob/main/tutorial/readme.md).
+2. Visiting the [GitHub pages site](https://05konz.github.io/Blooket-Cheats), choosing a game mode, and then either dragging a cheat to your bookmarks bar or clicking one to copy the script.
+3. Copying a script and running it in the inspect element console.
 
-<details><summary><h3>(script) is not working?</h3></summary>
+### Troubleshooting
 
-Make sure you're running it properly (see [How to use](https://github.com/05Konz/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/05Konz/Blooket-Cheats/issues)
-</details>
+If you encounter issues with a cheat script not working, please follow these steps:
 
-<details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
+1. Make sure you're running it properly (see [How to Use](#how-to-use)).
+2. If it still doesn't work and other cheats do, then [create an issue](https://github.com/TypicalShavonne/Blooket-Cheats/issues) to report the problem.
 
-You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
-</details>
+### FAQ
 
-<details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
+Here are some frequently asked questions about these cheats:
 
-No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
-</details>
+- **What can I do if JavaScript is blocked?**
+  We don't actually know what to do about this or how to fix it, sorry.
 
-<details><summary><h3>Can you make hacks for (game)</h3></summary>
+- **(script) is not working?**
+  Make sure you're running it properly (see [How to Use](#how-to-use)). If it still doesn't work and other cheats do, then [create an issue](https://github.com/TypicalShavonne/Blooket-Cheats/issues).
 
-No
-</details>
+- **Which script should I use to make a bookmarklet?**
+  You should use the scripts ending in ".min.js," as using the others will have errors due to formatting.
 
-<details><summary><h3>Can you make more Battle Royale cheats</h3></summary>
+- **Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?**
+  No, these are things we would've already done if they were possible; they're managed on the backend of Blooket, so we can't modify them.
 
-Battle Royale is a gamemode that works almost entirely on the host's end. The only thing we have control over is answering questions.
-</details>
+- **Can you make hacks for (game)?**
+  No.
 
-<details><summary><h3>What happend to Minesraft2?</h3></summary>
+- **Can you make more Battle Royale cheats?**
+  Battle Royale is a game mode that works almost entirely on the host's end. The only thing we have control over is answering questions.
 
-Minesraft2 was sent a cease and desist from Blooket, and I offered to take over since he wouldn't be able to.
-</details>
+- **What happened to Minesraft2?**
+  Minesraft2 was sent a cease and desist from Blooket, and I offered to take over since he wouldn't be able to.
 
-<details><summary><h3>How do I do this on mobile?</h3></summary>
+- **How do I do this on mobile?**
+  These scripts aren't made for mobile, so we don't really know how to get them to work on it.
 
-These scripts aren't made for mobile, so we don't really know how to get them to work on it.
-</details>
+- **What's the Mobile GUI?**
+  The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked on mobile, and it's a lot neater for mobile use apparently, so we just called it that.
 
-<details><summary><h3>What's the Mobile GUI?</h3></summary>
+## List of Cheats
 
-The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked on mobile and it's a lot neater for mobile use apparently so we just called it that.
-</details>
-
-
-<details><summary><h2>List of Cheats</h2></summary>
-
+### React GUI
 * [React GUI](cheats/reactGui.js)
+
+### GUI
 * [GUI](cheats/gui.js)
+
+### Mobile GUI
 * [Mobile GUI](cheats/mobileGui.js)
-### [Monster Brawl](cheats/brawl)
+
+#### Monster Brawl
 * [Double Enemy XP](cheats/brawl/doubleEnemyXp.js)
 * [Half Enemy Speed](cheats/brawl/halfEnemySpeed.js)
 * [Instant Kill](cheats/brawl/instantKill.js)
@@ -74,13 +88,15 @@ The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked
 * [Next Level](cheats/brawl/nextLevel.js)
 * [Remove Obstacles](cheats/brawl/removeObstacles.js)
 * [Reset Health](cheats/brawl/resetHealth.js)
-### [Cafe](cheats/cafe)
+
+#### Cafe
 * [Max Items](cheats/cafe/maxItems.js)
 * [Remove Customers](cheats/cafe/removeCustomers.js)
 * [Reset Abilities](cheats/cafe/resetAbilities.js)
 * [Set Cash](cheats/cafe/setCash.js)
 * [Stock Food](cheats/cafe/stockFood.js)
-### [Crypto Hack](cheats/crypto)
+
+#### Crypto Hack
 * [Always Triple](cheats/crypto/alwaysTriple.js)
 * [Auto Guess](cheats/crypto/autoGuess.js)
 * [Choice ESP](cheats/crypto/choiceESP.js)
@@ -89,20 +105,23 @@ The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked
 * [Set Crypto](cheats/crypto/setCrypto.js)
 * [Set Password](cheats/crypto/setPassword.js)
 * [Steal Players Crypto](cheats/crypto/stealPlayersCrypto.js)
-### [Deceptive Dinos](cheats/dinos)
+
+#### Deceptive Dinos
 * [Auto Choose](cheats/dinos/autoChoose.js)
 * [Rock ESP](cheats/dinos/rockESP.js)
 * [Set Fossils](cheats/dinos/setFossils.js)
 * [Set Multiplier](cheats/dinos/setMultiplier.js)
 * [Stop Cheating](cheats/dinos/stopCheating.js)
-### [Tower of Doom](cheats/doom)
+
+#### Tower of Doom
 * [Fill Deck](cheats/doom/fillDeck.js)
 * [Max Cards](cheats/doom/maxCards.js)
 * [Max Health](cheats/doom/maxHealth.js)
 * [Max Stats](cheats/doom/maxStats.js)
 * [Min Enemy](cheats/doom/minEnemy.js)
 * [Set Coins](cheats/doom/setCoins.js)
-### [Factory](cheats/factory)
+
+#### Factory
 * [Choose Blook](cheats/factory/chooseBlook.js)
 * [Free Upgrades](cheats/factory/freeUpgrades.js)
 * [Max Blooks](cheats/factory/maxBlooks.js)
@@ -110,16 +129,19 @@ The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked
 * [Send Glitch](cheats/factory/sendGlitch.js)
 * [Set All Mega Bot](cheats/factory/setAllMegaBot.js)
 * [Set Cash](cheats/factory/setCash.js)
-### [Fishing Frenzy](cheats/fishing)
+
+#### Fishing Frenzy
 * [Frenzy](cheats/fishing/frenzy.js)
 * [Remove Distraction](cheats/fishing/removeDistraction.js)
 * [Send Distraction](cheats/fishing/sendDistraction.js)
 * [Set Lure](cheats/fishing/setLure.js)
 * [Set Weight](cheats/fishing/setWeight.js)
-### [Flappy Blook](cheats/flappy)
+
+#### Flappy Blook
 * [Set Score](cheats/flappy/setScore.js)
 * [Toggle Ghost](cheats/flappy/toggleGhost.js)
-### [Global](cheats/global)
+
+#### Global
 * [Anti Flood Game](cheats/global/antiFloodGame.js)
 * [Auto Answer](cheats/global/autoAnswer.js)
 * [Auto Sell Dupes On Open](cheats/global/autoSellDupesOnOpen.js)
@@ -137,10 +159,12 @@ The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked
 * [Spam Buy Blooks](cheats/global/spamBuyBlooks.js)
 * [Unlock Plus Gamemodes](cheats/global/unlockPlusGamemodes.js)
 * [Use Any Blook](cheats/global/useAnyBlook.js)
-#### [Intervals](cheats/global/intervals)
+
+##### Intervals
 * [Auto Answer](cheats/global/intervals/autoAnswer.js)
 * [Highlight Answers](cheats/global/intervals/highlightAnswers.js)
-### [Gold Quest](cheats/gold)
+
+#### Gold Quest
 * [Always Triple](cheats/gold/alwaysTriple.js)
 * [Auto Choose](cheats/gold/autoChoose.js)
 * [Chest ESP](cheats/gold/chestESP.js)
@@ -148,48 +172,55 @@ The mobile GUI is the first GUI Minesraft2 ever made. Some people said it worked
 * [Reset Players Gold](cheats/gold/resetPlayersGold.js)
 * [Set Gold](cheats/gold/setGold.js)
 * [Swap Gold](cheats/gold/swapGold.js)
-### [Crazy Kingdom](cheats/kingdom)
+
+#### Crazy Kingdom
 * [Choice ESP](cheats/kingdom/choiceESP.js)
 * [Choice ESP Loop](cheats/kingdom/choiceESPLoop.js)
 * [Disable Toucan](cheats/kingdom/disableToucan.js)
 * [Max Stats](cheats/kingdom/maxStats.js)
 * [Set Guests](cheats/kingdom/setGuests.js)
 * [Skip Guest](cheats/kingdom/skipGuest.js)
-### [Racing](cheats/racing)
+
+#### Racing
 * [Instant Win](cheats/racing/instantWin.js)
-### [Battle Royale](cheats/royale)
+
+#### Battle Royale
 * [Auto Answer](cheats/royale/autoAnswer.js)
-#### [Intervals](cheats/royale/intervals)
+
+##### Intervals
 * [Auto Answer](cheats/royale/intervals/autoAnswer.js)
-### [Blook Rush](cheats/rush)
+
+#### Blook Rush
 * [Set Blooks](cheats/rush/setBlooks.js)
 * [Set Defense](cheats/rush/setDefense.js)
-### [Tower Defense](cheats/tower-defense)
+
+#### Tower Defense
 * [Earthquake](cheats/tower-defense/earthquake.js)
 * [Max Towers](cheats/tower-defense/maxTowers.js)
 * [Remove Ducks](cheats/tower-defense/removeDucks.js)
 * [Remove Enemies](cheats/tower-defense/removeEnemies.js)
-* [Remove Obsticles](cheats/tower-defense/removeObsticles.js)
+* [Remove Obstacles](cheats/tower-defense/removeObstacles.js)
 * [Set Damage](cheats/tower-defense/setDmg.js)
 * [Set Round](cheats/tower-defense/setRound.js)
 * [Set Tokens](cheats/tower-defense/setTokens.js)
-### [Tower Defense 2](cheats/tower-defense-2)
+
+#### Tower Defense 2
 * [Max Towers](cheats/tower-defense-2/maxTowers.js)
 * [Remove Enemies](cheats/tower-defense-2/removeEnemies.js)
 * [Set Coins](cheats/tower-defense-2/setCoins.js)
 * [Set Health](cheats/tower-defense-2/setHealth.js)
 * [Set Round](cheats/tower-defense-2/setRound.js)
-### [Pirate's Voyage](cheats/voyage/)
 
+#### Pirate's Voyage
 * [Max Levels](cheats/voyage/maxLevels.js)
 * [Set Doubloons](cheats/voyage/setDoubloons.js)
 * [Start Heist](cheats/voyage/startHeist.js)
 * [Swap Doubloons](cheats/voyage/swapDoubloons.js)
 * [Take Doubloons](cheats/voyage/takeDoubloons.js)
-### [Santa's Workshop](cheats/workshop)
+
+#### Santa's Workshop
 * [Remove Distractions](cheats/workshop/removeDistractions.js)
 * [Send Distraction](cheats/workshop/sendDistraction.js)
 * [Set Toys](cheats/workshop/setToys.js)
 * [Set Toys Per Question](cheats/workshop/setToysPerQ.js)
 * [Swap Toys](cheats/workshop/swapToys.js)
-</details>
