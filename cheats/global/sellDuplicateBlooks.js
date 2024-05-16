@@ -51,7 +51,7 @@
   };
   let img = new Image();
   img.src =
-    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/autoupdate/timestamps/global/sellDuplicateBlooks.png?" +
+    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/assets/timestamps/global/sellDuplicateBlooks.png?" +
     Date.now();
   img.crossOrigin = "Anonymous";
   img.onload = function () {
@@ -76,3 +76,4 @@
   };
   img.onerror = img.onabort = () => ((img.src = null), cheat());
 })();
+

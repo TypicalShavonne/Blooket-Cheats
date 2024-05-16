@@ -28,7 +28,7 @@
   };
   let img = new Image();
   img.src =
-    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/autoupdate/timestamps/factory/freeUpgrades.png?" +
+    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/assets/timestamps/factory/freeUpgrades.png?" +
     Date.now();
   img.crossOrigin = "Anonymous";
   img.onload = function () {

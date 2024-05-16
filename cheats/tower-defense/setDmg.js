@@ -30,7 +30,7 @@
   };
   let img = new Image();
   img.src =
-    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/autoupdate/timestamps/tower-defense/setDmg.png?" +
+    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/assets/timestamps/tower-defense/setDmg.png?" +
     Date.now();
   img.crossOrigin = "Anonymous";
   img.onload = function () {
@@ -55,3 +55,4 @@
   };
   img.onerror = img.onabort = () => ((img.src = null), cheat());
 })();
+

@@ -84,7 +84,7 @@
   };
   let img = new Image();
   img.src =
-    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/autoupdate/timestamps/gold/setPlayersGold.png?" +
+    "https://raw.githubusercontent.com/TypicalShavonne/Blooket-Cheats/main/assets/timestamps/gold/setPlayersGold.png?" +
     Date.now();
   img.crossOrigin = "Anonymous";
   img.onload = function () {
@@ -109,3 +109,4 @@
   };
   img.onerror = img.onabort = () => ((img.src = null), cheat());
 })();
+
