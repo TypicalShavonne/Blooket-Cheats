@@ -1,10 +1,8 @@
 # Blooket Cheats
 
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h3>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h3>
 
-[Support Server](https://discord.gg/jHjGrrdXP6)
 [Import tutorial](https://github.com/TypicalShavonne/Blooket-Cheats/blob/main/tutorial/readme.md)
 
 ## Table of Contents
